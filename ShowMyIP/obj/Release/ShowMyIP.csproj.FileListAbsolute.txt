@@ -1,0 +1,7 @@
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\bin\Release\ShowMyIP.exe
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\bin\Release\ShowMyIP.pdb
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.WinMain.resources
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.Properties.Resources.resources
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.csproj.GenerateResource.Cache
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.exe
+C:\Users\hhlee\Downloads\ShowMyIP\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.pdb
